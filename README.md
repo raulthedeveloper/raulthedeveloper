@@ -1,10 +1,10 @@
-### Hi there 👋
-
-### Hi there 👋, my name is Raul
-#### I am GitHub Readme Generator's creator
+## Hi there 👋, my name is Raul Rodriguez
+#### I am Full Stack Web Developer
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+<!--  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=raulthedeveloper)  
+ -->
+
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
@@ -13,17 +13,28 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 👯 I’m looking to collaborate on open source projects 
 - 📫 How to reach me: raulrodriguez@raulthedeveloper.site 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=raulthedeveloper&show_icons=true&count_private=true)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/raulthedeveloper)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raul-rodriguez-b184181a4/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://raulthedeveloper.me/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulthedeveloper)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=raulthedeveloper&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=raulthedeveloper)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/raulthedeveloper)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raul-rodriguez-b184181a4/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://raulthedeveloper.me/)  
 
-![GitHub metrics](https://metrics.lecoq.io/raulthedeveloper)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/raulthedeveloper)  
+ -->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=raulthedeveloper)  
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=raulthedeveloper) 
+ -->
+
+
+
+
+
+
+
+
+
+ 
 
 
