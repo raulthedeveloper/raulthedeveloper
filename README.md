@@ -1,6 +1,5 @@
 ## Hi there 👋, my name is Raul Rodriguez
-#### I am Full Stack Web Developer
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am GitHub Readme Generator's creator](https://github.com/raulthedeveloper/raulthedeveloper/blob/main/github-banner.jpg)
 
 <!--  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=raulthedeveloper)  
  -->
